@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/TaskRequest/.vs/TaskRequest
+/TaskRequest/packages
+/TaskRequest/TaskRequest.Core/bin/Debug
+/TaskRequest/TaskRequest.Core/obj/Debug
+/TaskRequest/TaskRequest.Prsentation/bin
+/TaskRequest/TaskRequest.Prsentation/obj/Debug
